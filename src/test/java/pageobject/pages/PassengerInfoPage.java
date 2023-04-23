@@ -69,4 +69,5 @@ public class PassengerInfoPage {
     public void book() {
         baseFunc.click(BOOK_BTN);
     }
+
 }

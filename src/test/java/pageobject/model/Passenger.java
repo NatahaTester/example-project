@@ -47,4 +47,5 @@ public class Passenger {
     public String getDate() {
         return date;
     }
+
 }

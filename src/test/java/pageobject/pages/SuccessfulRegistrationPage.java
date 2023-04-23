@@ -17,4 +17,5 @@ public class SuccessfulRegistrationPage {
         String textOnPage = baseFunc.findElement(SUCCESSFUL_TEXT).getText();
         return textOnPage.equals(TEXT);
     }
+
 }

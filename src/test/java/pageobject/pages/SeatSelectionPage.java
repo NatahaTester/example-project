@@ -44,4 +44,5 @@ public class SeatSelectionPage {
     public void book() {
         baseFunc.click(BOOK_BTN);
     }
+
 }
